@@ -1,0 +1,10 @@
+# We don't need to sync these...
+
+Package Control.ca-certs/
+Package Control.cache/
+Package Control.ca-bundle
+Package Control.ca-list
+Package Control.last-run
+Package Control.system-ca-bundle
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle

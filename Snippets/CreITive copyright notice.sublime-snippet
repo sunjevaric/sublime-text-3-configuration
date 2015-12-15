@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[@copyright ©2011-2015 CreITive (http://www.creitive.rs)]]></content>
+	<tabTrigger>@copy</tabTrigger>
+	<scope>source</scope>
+	<description>CreITive copyright notice</description>
+</snippet>

@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Animate.css Snippets",
+		"ApacheConf.tmLanguage",
+		"Bootstrap 3 Snippets",
+		"Case Conversion",
+		"Code Snippets Helper",
+		"CSS Extended Completions",
+		"DevDocs",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"FavoriteFiles",
+		"Git Config",
+		"Handlebars",
+		"Hosts",
+		"INI",
+		"Laravel Blade Highlighter",
+		"MarkdownCodeBlockWrapper",
+		"Material Theme",
+		"Modific",
+		"Package Control",
+		"Puppet",
+		"SassBeautify",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublime-github",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Text Pastry",
+		"Themr"
+	]
+}

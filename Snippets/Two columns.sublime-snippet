@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+		<![CDATA[
+		<div class="row">
+			<div class="col-sm-6"></div>
+			<div class="col-sm-6"></div>
+		</div>
+		]]>
+	</content>
+	<tabTrigger>@two</tabTrigger>
+	<scope>source</scope>
+	<description>Two column</description>
+</snippet>
